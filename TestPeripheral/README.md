@@ -12,9 +12,7 @@ Application interface
 
 Arduino Uno chip             |  H-Bridge L298Nn           |      blueTooth kid hm-10 BT
 :-------------------------:|:-------------------------:   |:-------------------------:
-![](https://github.com/ragaie/Ardunio-iOS/blob/master/TestPeripheral/screen%20shot%20/Arduino%20Uno.jpg)  
-|  ![](https://github.com/ragaie/Ardunio-iOS/blob/master/TestPeripheral/screen%20shot%20/H-Bridge%20L298N.jpg). 
-|  ![](https://github.com/ragaie/Ardunio-iOS/blob/master/TestPeripheral/screen%20shot%20/hm-10%20BT.jpg)
+![](https://github.com/ragaie/Ardunio-iOS/blob/master/TestPeripheral/screen%20shot%20/Arduino%20Uno.jpg) |  ![](https://github.com/ragaie/Ardunio-iOS/blob/master/TestPeripheral/screen%20shot%20/H-Bridge%20L298N.jpg). |  ![](https://github.com/ragaie/Ardunio-iOS/blob/master/TestPeripheral/screen%20shot%20/hm-10%20BT.jpg)
 
 
 
