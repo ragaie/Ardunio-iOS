@@ -6,6 +6,14 @@ It car fully made form wood hand made, fully controlled by iOS mobile app create
 ![Screenshot](https://github.com/ragaie/Ardunio-iOS/blob/master/TestPeripheral/screen%20shot%20/Simulator%20Screen%20Shot%20-%20iPhone%20Xʀ%20-%202019-11-02%20at%2021.44.01.png)
 ## What you will need :
 
+
+
+Arduino Uno chip             |  H-Bridge L298Nn           |      blueTooth kid hm-10 BT
+:-------------------------:|:-------------------------:   |:-------------------------:
+![](https://github.com/ragaie/Ardunio-iOS/blob/master/TestPeripheral/screen%20shot%20/Arduino%20Uno.jpg)  |  ![](https://github.com/ragaie/Ardunio-iOS/blob/master/TestPeripheral/screen%20shot%20/H-Bridge%20L298N.jpg). |  ![](https://github.com/ragaie/Ardunio-iOS/blob/master/TestPeripheral/screen%20shot%20/hm-10%20BT.jpg)
+
+
+
 1- Arduino Uno chip.
 ![Screenshot](https://github.com/ragaie/Ardunio-iOS/blob/master/TestPeripheral/screen%20shot%20/Arduino%20Uno.jpg)
 2- H-Bridge L298N.
