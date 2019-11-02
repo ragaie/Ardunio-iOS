@@ -17,16 +17,11 @@ Arduino Uno chip             |  H-Bridge L298Nn           |      blueTooth kid h
 
 
 ##  some photos of final result of car 
-Arduino Uno chip             |  H-Bridge L298Nn           |      blueTooth kid hm-10 BT
-:-------------------------:|:-------------------------:   |:-------------------------:
-![](https://github.com/ragaie/Ardunio-iOS/blob/master/TestPeripheral/screen%20shot%20/IMG_2535.jpg)  
-|  ![](https://github.com/ragaie/Ardunio-iOS/blob/master/TestPeripheral/screen%20shot%20/IMG_2537.jpg). 
-|  ![](https://github.com/ragaie/Ardunio-iOS/blob/master/TestPeripheral/screen%20shot%20/IMG_2545.jpg)
+
+![](https://github.com/ragaie/Ardunio-iOS/blob/master/TestPeripheral/screen%20shot%20/IMG_2535.jpg)  |  ![](https://github.com/ragaie/Ardunio-iOS/blob/master/TestPeripheral/screen%20shot%20/IMG_2537.jpg). |  ![](https://github.com/ragaie/Ardunio-iOS/blob/master/TestPeripheral/screen%20shot%20/IMG_2545.jpg)
 
 :-------------------------:|:-------------------------:   |:-------------------------:
-![](https://github.com/ragaie/Ardunio-iOS/blob/master/TestPeripheral/screen%20shot%20/IMG_2546.jpg)  
-|  ![](https://github.com/ragaie/Ardunio-iOS/blob/master/TestPeripheral/screen%20shot%20/IMG_2557.jpg). 
-|  ![](https://github.com/ragaie/Ardunio-iOS/blob/master/TestPeripheral/screen%20shot%20/IMG_2559.jpg)
+![](https://github.com/ragaie/Ardunio-iOS/blob/master/TestPeripheral/screen%20shot%20/IMG_2546.jpg)  |  ![](https://github.com/ragaie/Ardunio-iOS/blob/master/TestPeripheral/screen%20shot%20/IMG_2557.jpg). |  ![](https://github.com/ragaie/Ardunio-iOS/blob/master/TestPeripheral/screen%20shot%20/IMG_2559.jpg)
 :-------------------------:|:-------------------------:   |:-------------------------:
 ![](https://github.com/ragaie/Ardunio-iOS/blob/master/TestPeripheral/screen%20shot%20/IMG_2565.jpg)  
 |  ![](https://github.com/ragaie/Ardunio-iOS/blob/master/TestPeripheral/screen%20shot%20/IMG_2557.jpg). 
