@@ -1,9 +1,8 @@
 # Arduino Car (iOS), (Core Bluetooth) :-
 This project is my first project for iOS with CoreBlutooth and arduino Uno chip and Craft Wood.
 
-iOS app full control of car made from wood and Arduino chip throw bluetooth 4.0. 
+It car fully hand made car form wood, fully controlled by iOS mobile app create with swift and xcode 10.1. 
 
-It car fully made form wood hand made, fully controlled by iOS mobile app create with swift and xcode 10.1. 
 # App interface like this photo after runing:-
 Application interface          |      final car look like 
 :-------------------------:|:-------------------------: 
