@@ -25,15 +25,12 @@ Arduino Uno chip             |  H-Bridge L298Nn           |      blueTooth kid h
 ##  some photos of final result of car 
               1               |         2                   |    3              
 :-------------------------:|:-------------------------:  |:-------------------------:
-![](https://github.com/ragaie/Ardunio-iOS/blob/master/TestPeripheral/screen%20shot%20/IMG_2535.jpg)  |  ![](https://github.com/ragaie/Ardunio-iOS/blob/master/TestPeripheral/screen%20shot%20/IMG_2537.jpg). |  ![](https://github.com/ragaie/Ardunio-iOS/blob/master/TestPeripheral/screen%20shot%20/IMG_2545.jpg)
+![](https://github.com/ragaie/Ardunio-iOS/blob/master/TestPeripheral/screen%20shot/IMG_2537.jpg)  |  ![](https://github.com/ragaie/Ardunio-iOS/blob/master/TestPeripheral/screen%20shot/IMG_2544.jpg). |  ![](https://github.com/ragaie/Ardunio-iOS/blob/master/TestPeripheral/screen%20shot/IMG_2547.jpg)
 
-              1        |  2          |    3              
+              4        |              5         |            6              
 :-------------------------:|:-------------------------:   |:-------------------------:
-![](https://github.com/ragaie/Ardunio-iOS/blob/master/TestPeripheral/screen%20shot%20/IMG_2546.jpg)  |  ![](https://github.com/ragaie/Ardunio-iOS/blob/master/TestPeripheral/screen%20shot%20/IMG_2557.jpg). |  ![](https://github.com/ragaie/Ardunio-iOS/blob/master/TestPeripheral/screen%20shot%20/IMG_2559.jpg)
+![](https://github.com/ragaie/Ardunio-iOS/blob/master/TestPeripheral/screen%20shot/IMG_2557.jpg)  |  ![](https://github.com/ragaie/Ardunio-iOS/blob/master/TestPeripheral/screen%20shot/IMG_2565.jpg). |  ![](https://github.com/ragaie/Ardunio-iOS/blob/master/TestPeripheral/screen%20shot/IMG_2570.jpg)
 
-              1        |  2          |    3              
-:-------------------------:|:-------------------------:   |:-------------------------:
-![](https://github.com/ragaie/Ardunio-iOS/blob/master/TestPeripheral/screen%20shot%20/IMG_2565.jpg)  |  ![](https://github.com/ragaie/Ardunio-iOS/blob/master/TestPeripheral/screen%20shot%20/IMG_2557.jpg). |  ![](https://github.com/ragaie/Ardunio-iOS/blob/master/TestPeripheral/screen%20shot%20/IMG_2559.jpg)
 
 ## Author
 
