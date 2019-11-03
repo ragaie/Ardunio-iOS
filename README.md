@@ -1,6 +1,3 @@
-# Ardunio-iOS
-
-
 # Arduino Car (iOS), (Core Bluetooth) :-
 This project is my first project for iOS with CoreBlutooth and arduino Uno chip and Craft Wood.
 
